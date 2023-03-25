@@ -1,2 +1,2 @@
-# Nodejs-Todo-Backend-App
- This is the source code of Todo backend app
+# Nodejs-todo-app
+ This is the source code of node js todo app
